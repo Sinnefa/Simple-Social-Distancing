@@ -10,4 +10,5 @@ Due to the pandemic (year 2020) I developed this app to show that it is possible
 
 # Screeshot
 ![screenshot](https://github.com/Sinnefa/Simple-Social-Distancing/blob/master/markdown_imgs/Screenshot.png)
+
 Looking at these numbers one can try to keep them as low as possible
