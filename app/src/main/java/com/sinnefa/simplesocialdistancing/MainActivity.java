@@ -73,7 +73,7 @@ public class MainActivity extends Activity {
             public void onClick(View v) {
                 if(mBluetoothAdapter != null && mBluetoothAdapter.isEnabled()) {
                     mBluetoothAdapter.startDiscovery();
-                    startService(serviceIntent);
+                    if(!isMyServiceRunning(MyScanService.class)) {startService(serviceIntent);}
                     updateCound();
                     ((TextView)findViewById(R.id.status)).setText("Discovering...");
                 }
