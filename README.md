@@ -1,5 +1,6 @@
 # Simple-Social-Distancing
 A concept android application to count nearby discoverable bluetooth devices to facilitate social distancing against COVID.
+A graph theory based computer simulation i made to show [Benefits of social distancing]: https://youtu.be/Nwrh_Vm4TpE
 If anyone knows or wants to further implement this idea: "Give the user an estimate of any contact around to help him/her reduce it" fell free to clone this project or contact me again.
 
 ![screenshot](https://github.com/Sinnefa/Simple-Social-Distancing/blob/master/markdown_imgs/banner_small.png)
