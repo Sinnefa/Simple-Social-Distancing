@@ -2,6 +2,8 @@
 A concept android application to count nearby discoverable bluetooth devices to facilitate social distancing against COVID.
 If anyone knows or wants to further implement this idea: "Give the user an estimate of any contact around to help him/her reduce it" fell free to clone this project or contact me again.
 
+![screenshot](https://github.com/Sinnefa/Simple-Social-Distancing/blob/master/markdown_imgs/banner_small.png)
+
 # WARNING
 This is just a concept application, it is not mean to be an official app against COVID.
 * One bluetooth devices does not mean one person
