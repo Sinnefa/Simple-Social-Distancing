@@ -6,6 +6,8 @@ If anyone knows or wants to further implement this idea: "Give the user an estim
 
 # WARNING
 This is just a concept application, it is not mean to be an official app against COVID.
+* The app doesn't use internet, data will never leave you device. Position included (Coarse position is not localization anyway)
+* Constant use of the apps drains battery
 * One bluetooth devices does not mean one person
 * Bluetooth distance is not the "safe distance" suggested by the law of your country
 * Bluetooth is very limited and a very rough approximation of this idea to work properly.
