@@ -1,4 +1,7 @@
 # Simple-Social-Distancing
+
+Estimate the number of interactions around you so you can try to keep it as small as you can, as if it was a game.
+
 A concept android application to count nearby discoverable bluetooth devices to facilitate social distancing against COVID.
 A graph theory based computer simulation I made to show the benefits of social distancing: https://youtu.be/Nwrh_Vm4TpE
 If anyone knows or wants to further implement this idea: "Give the user an estimate of any contact around to help him/her reduce it" fell free to clone this project or contact me again.
