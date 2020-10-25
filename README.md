@@ -9,7 +9,7 @@ If anyone knows or wants to further implement this idea: "Give the user an estim
 ![screenshot](https://github.com/Sinnefa/Simple-Social-Distancing/blob/master/markdown_imgs/banner_small.png)
 
 # WARNING
-This is just a concept application, it is not mean to be an official app against COVID.
+This is just a concept application, it is not meant to be an official app against COVID.
 * The app doesn't use internet, data will never leave you device. Position included (Coarse position is not localization anyway)
 * Constant use of the apps drains battery
 * One bluetooth devices does not mean one person
