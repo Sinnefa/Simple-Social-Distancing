@@ -2,11 +2,23 @@
 
 Estimate the number of interactions around you so you can try to keep it as small as you can, as if it was a game.
 
-A concept android application to count nearby discoverable bluetooth devices to facilitate social distancing against COVID.
-A graph theory based computer simulation I made to show the benefits of social distancing: https://youtu.be/Nwrh_Vm4TpE
-If anyone knows or wants to further implement this idea: "Give the user an estimate of any contact around to help him/her reduce it" fell free to clone this project or contact me again.
+A concept android application to count nearby discoverable bluetooth devices to facilitate social distancing.
+A graph theory based computer simulation I made to show the benefits of social distancing on disease propagation: https://youtu.be/Nwrh_Vm4TpE
+If anyone knows or wants to further implement this idea here is how it works:
 
-![screenshot](https://github.com/Sinnefa/Simple-Social-Distancing/blob/master/markdown_imgs/banner_small.png)
+1. Give the user an estimate of any "bluetooth activity" around at the moment to help him/her reduce it
+2. Give the user an estimate of how many "human activities" around you you met on average in the past days
+3. In the future days, help the user to keep it numbers lower than previous days
+4. It is a matter of probability, the less people you meet the less probable it is that you get infected
+
+Free to clone this project or contact me.
+
+
+# Screenshot
+![screenshot](https://github.com/Sinnefa/Simple-Social-Distancing/blob/master/markdown_imgs/Screenshot.png)
+
+Looking at these numbers one can try to keep them as low as possible
+
 
 # WARNING
 This is just a concept application, it is not meant to be an official app against COVID.
@@ -21,7 +33,4 @@ Unlike other apps, this app scans for any possible contact just to help you redu
 This application continuously scans for nearby discoverable bluetooth devices. It shows how many devices are around you in time.
 Due to the pandemic (year 2020) I developed this app to show that it is possible to estimate how many interactions you have during the day. By reducing this number, looking at the interface, you can reduce your interactions through the days and possible reduce the chance of being infected.
 
-# Screenshot
-![screenshot](https://github.com/Sinnefa/Simple-Social-Distancing/blob/master/markdown_imgs/Screenshot.png)
-
-Looking at these numbers one can try to keep them as low as possible
+![screenshot](https://github.com/Sinnefa/Simple-Social-Distancing/blob/master/markdown_imgs/banner_small.png)
