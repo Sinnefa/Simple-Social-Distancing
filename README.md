@@ -14,10 +14,12 @@ If anyone knows or wants to further implement this idea here is how it works:
 Free to clone this project or contact me.
 
 
-# Screenshot
-![screenshot](https://github.com/Sinnefa/Simple-Social-Distancing/blob/master/markdown_imgs/Screenshot.png)
+# Description
+Unlike other apps, this app scans for any possible contact just to help you reduce the chance of encountering someone.
+This application continuously scans for nearby discoverable bluetooth devices. It shows how many devices are around you in time.
+I developed this app to show that it is possible to estimate how many interactions you have during the day. By reducing this number, looking at the interface, you can reduce your interactions through the days and possible reduce the chance of being infected.
 
-Looking at these numbers one can try to keep them as low as possible
+![screenshot](https://github.com/Sinnefa/Simple-Social-Distancing/blob/master/markdown_imgs/banner_full.png)
 
 
 # WARNING
@@ -27,10 +29,3 @@ This is just a concept application, it is not meant to be an official app agains
 * One bluetooth devices does not mean one person
 * Bluetooth distance is not the "safe distance" suggested by the law of your country
 * Bluetooth is very limited and a very rough approximation of this idea to work properly.
-
-# Description
-Unlike other apps, this app scans for any possible contact just to help you reduce the chance of encountering someone.
-This application continuously scans for nearby discoverable bluetooth devices. It shows how many devices are around you in time.
-I developed this app to show that it is possible to estimate how many interactions you have during the day. By reducing this number, looking at the interface, you can reduce your interactions through the days and possible reduce the chance of being infected.
-
-![screenshot](https://github.com/Sinnefa/Simple-Social-Distancing/blob/master/markdown_imgs/banner_small.png)
