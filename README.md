@@ -19,7 +19,7 @@ Unlike other apps, this app scans for any possible contact just to help you redu
 This application continuously scans for nearby discoverable bluetooth devices. It shows how many devices are around you in time.
 I developed this app to show that it is possible to estimate how many interactions you have during the day. By reducing this number, looking at the interface, you can reduce your interactions through the days and possible reduce the chance of being infected.
 
-![screenshot](https://github.com/Sinnefa/Simple-Social-Distancing/blob/master/markdown_imgs/bannerfull.png)
+![screenshot](https://github.com/Sinnefa/Simple-Social-Distancing/blob/master/markdown_imgs/banner_full.png)
 
 
 # WARNING
